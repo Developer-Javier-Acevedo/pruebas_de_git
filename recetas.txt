@@ -5,3 +5,12 @@ Harina
 huevos 
 leche 
 aceite
+
+
+galletas 
+
+ 
+2kg de Harina 
+1 huevos 
+2 lt leche 
+500 ml de aceite
